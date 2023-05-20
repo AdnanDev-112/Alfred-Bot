@@ -13,6 +13,7 @@
     "discord.js": "^14.9.0",
     "djs-commander": "^0.0.45",
     "dotenv": "^16.0.3",
-    "langchain": "^0.0.66"
+    "langchain": "^0.0.66",
+    "mongoose": "^7.2.0"
   }
 }
